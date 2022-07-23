@@ -3,7 +3,7 @@
 - The user will see two city buttons, each with the name of a city: Toronto, and a second city of your choosing.
 - Clicking on one of the buttons will reveal the hidden output section.
 - This section will provide the current weather data for the selected city by using 
-- AJAX to fetch the OpenWeatherMap Current Weather Data API. Output to the 
+- AJAX to fetch the OpenWeatherMap Current Weather Data API. 
 # Appropriate areas of the webpage will be:
 -  The name of the selected city
 -  The current temperature (in Celsius, with text to indicate °C)
